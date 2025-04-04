@@ -53,7 +53,7 @@ This project uses **Deep Learning (CNN)** to classify images of clothing items i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Fashion_MNIST_Recognition.git
+   git clone https://github.com/HanumeshGupta/Fashion_Mnist_Recognition.git
    cd Fashion_MNIST_Recognition
    ```
 2. **Install dependencies**
